@@ -10,3 +10,6 @@ target_link_libraries(buildEngine ctdet)
 
 add_executable(runDet runDet.cpp)
 target_link_libraries(runDet ctdet)
+
+add_executable(runGIGE runGIGE.cpp)
+target_link_libraries(runGIGE ctdet)

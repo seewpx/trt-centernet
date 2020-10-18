@@ -1,5 +1,6 @@
 build
 .vscode
+/models
 /model
 /img
 
@@ -7,6 +8,7 @@ buildEngine
 getSupportedAPITest
 onnx2trt
 runDet
+runGIGE
 /test.*
 
 /lib

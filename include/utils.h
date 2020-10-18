@@ -13,6 +13,7 @@
 #include <numeric>
 #include "NvInfer.h"
 #include "opencv2/opencv.hpp"
+#include "opencv2/imgproc/imgproc.hpp"
 #include "cuda.h"
 #include "cuda_runtime.h"
 
